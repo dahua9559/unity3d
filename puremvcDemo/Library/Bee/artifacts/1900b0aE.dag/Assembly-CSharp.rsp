@@ -374,6 +374,8 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/fw/ApplicationFacade.cs"
 "Assets/fw/controller/DataCommand.cs"
+"Assets/fw/mgr/MsgDecoder.cs"
+"Assets/fw/mgr/NetMgr.cs"
 "Assets/fw/model/DataProxy.cs"
 "Assets/fw/model/MyData.cs"
 "Assets/fw/StartGame.cs"
